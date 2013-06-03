@@ -34,4 +34,4 @@ tracks:
     ros_distro: hydro
     vcs_type: git
     vcs_uri: file:///tmp/rf-git
-    version: :{auto}
+    version: :{ask}
