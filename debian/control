@@ -1,0 +1,12 @@
+Source: ros-hydro-reflexxes-type2
+Section: misc
+Priority: extra
+Maintainer: Ioan Sucan <isucan@willowgarage.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: http://www.reflexxes.com
+Standards-Version: 3.9.2
+
+Package: ros-hydro-reflexxes-type2
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: Reflexxes Type II
