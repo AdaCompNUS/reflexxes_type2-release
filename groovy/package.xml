@@ -1,0 +1,13 @@
+<package>
+  <name>reflexxes_type2</name>
+  <version>:{version}</version>
+  <description>Reflexxes Type II</description>
+  <author email="tkr@stanford.edu">Torsten Kroger</author>
+  <maintainer email="isucan@willowgarage.com">Ioan Sucan</maintainer>
+
+  <license>LGPL</license>  
+  <url>http://www.reflexxes.com</url>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
